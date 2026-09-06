@@ -14,7 +14,7 @@ University of Manitoba.
 
 ## Course Overview
 
-This is the laboratory component of **PSYC 7200: Quantitative Methods in Psychology 1** course. The labs provide hands-on experience with statistical analysis using **R** and **RStudio**, reinforcing concepts covered in lectures.
+This is the laboratory component of **PSYC 7200: Quantitative Methods in Psychology 1** course. These labs provide hands-on experience with statistical analysis using **R** and **RStudio**, reinforcing concepts covered in lectures.
 
 ## Contact
 - **Email:** abeykook@myumanitoba.ca
