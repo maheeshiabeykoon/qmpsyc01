@@ -1,0 +1,21 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 79ea20da-f3aa-43e8-89a1-cd6df38e8d6d
+  # title: PSYC 7200 Labs
+  # description:
+  # keywords: []
+  # authors: Kasuni Abeykoonge
+  github: maheeshiabeykoon/qmpsyc01
+  license: MIT
+
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  options:
+    # favicon: favicon.ico
+    # logo: assets/logo.png
+    logo_text: "PSYC 7200 Labs"
+    logo_alt: "PSYC 7200 Labs"
+  parts:
+    footer: Copyright © 2026 Kasuni Abeykoonge. All rights reserved. University of Manitoba.
