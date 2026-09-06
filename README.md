@@ -1,4 +1,4 @@
-# PSYC 72100: Quantitative Methods in Psychology 1 - Lab Sessions
+# PSYC 7200: Quantitative Methods in Psychology 1 - Lab Sessions
 
 <div style="text-align: center;">
 
