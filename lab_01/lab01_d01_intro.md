@@ -16,7 +16,7 @@ A few reasons R is popular with researchers:
 - Free and open-source. Unlike SPSS or SAS, R costs nothing and can be installed on any computer, with no license restrictions.
 - A huge library of packages. User-contributed packages extend R to cover almost any statistical method, from t-tests to structural equation modeling.
 - A manageable learning curve. Even students with no programming background can learn enough R in the first few weeks of a course to run and interpret common analyses.
-- Well suited to psychology. R makes it easy to go from raw data to a finished analysis and figure in one reproducible script, that that make life easier for psychological research.
+- Well suited to psychology. R makes it easy to go from raw data to a finished analysis and figure in one reproducible script, and that make life easier for psychological research.
 
 ### Two Components of the R Language
  
