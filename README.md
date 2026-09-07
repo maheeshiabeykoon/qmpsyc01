@@ -2,7 +2,7 @@
 
 <div style="text-align: center;">
 
-[Kasuni Abeykoonge](https://www.linkedin.com/in/maheeshiabeykoon/) B.Sc (Hons) Psyc, MA (Quant)<br>
+Kasuni Abeykoonge B.Sc (Hons) Psyc, MA (Quant)<br>
 Doctoral scholar in Quantitative Psychology <br>
 University of Manitoba.
 
